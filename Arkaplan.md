@@ -1,4 +1,6 @@
-![Wave Echo Mağarası](Resimler/WaveEchoCave.png)*Resim: wikidot.com*
+![Wave Echo Mağarası](Resimler/WaveEchoCave.png)
+>*Resim: wikidot.com*
+
 #Arkaplan
 Beşyüz yıl kadar önce, çeşitli *dwarf* ve gnome kabileleri **Wave Echo Mağarası** olarak bilinen mağaradaki zengin madeni paylaşmak için Phandelver Akdi'ne imza attılar
 Minerallerin zenginliğinin yanısıra, bu maden büyük büyüsel güçleri barındırıyordu. İnsan büyücüler, dwarf ve gnome'lar ile birlik oldular ve bu yüce gücü bir demir ocağına yönlendirdiler (*Büyüler Ocağı*). İçerisinde büyülü şeyler oluşturulabiliyordu. Zengin zamanlardı bunlar, yakınlardaki insan şehri **Phandalin** giderek büyüyordu. Fakat kuzeyden *Orc*lar gelip her şeyi yakıp yıktılar.
