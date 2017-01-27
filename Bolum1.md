@@ -7,7 +7,7 @@
 >Son birkaç günü **Newverwinter**'ın güneyinden anayolu takip ederek geçiriyorsunuz, daha yeni doğuya, *Triboar Patikası*'na saptınız. Henüz bir şey ile karşılaşmadınız fakat buralar pek tekin yerler değil. Bu patikada haydut ve eşkiyaların kol gezdiğini biliyorsunuz.
 
 
- ### Oyun yöneticisinin sorabileceği sorular
+ Oyun yöneticisinin sorabileceği sorular
  * Oyuncular *Gundren*'i nerden tanıyor?
  * Vagonu kim sürüyor?
 
