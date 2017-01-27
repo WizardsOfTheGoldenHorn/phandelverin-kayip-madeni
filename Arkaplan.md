@@ -1,4 +1,4 @@
-![Wave Echo Mağarası](Resimler/WaveEchoCave.png)
+![Wave Echo Mağarası](Resimler/WaveEchoCave.jpg)
 >*Resim: wikidot.com*
 
 #Arkaplan

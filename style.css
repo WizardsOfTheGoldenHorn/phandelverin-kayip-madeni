@@ -1,6 +1,16 @@
-.alert {
-  margin-top: 5em;
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Cormorant+Unicase');
+.container {
+  margin-bottom: 5em;
 }
-.jumbotron {
-  background-color: tomato;
+h1 {
+  font-family: 'Cormorant Unicase', serif;
+}
+h2 {
+  font-family: 'Cormorant Unicase', serif;
+}
+h3{
+  font-family: 'Comfortaa',cursive;
+}
+p{
+  font-family: 'Comfortaa',cursive;
 }
