@@ -1,4 +1,4 @@
-![Goblin Okları](Resimler/goblinarrows.jpg) *Resim: https://notnerdydungeonsanddragons.files.wordpress.com/*
+![Goblin Okları](docs/Resimler/goblinarrows.jpg) *Resim: https://notnerdydungeonsanddragons.files.wordpress.com/*
 
 ### [Dikkat: Bu Belgeyi Nasıl Kullanacağınızı Okuyun.](NasilKullanilir.md)
 # Goblin Okları

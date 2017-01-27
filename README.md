@@ -1,4 +1,4 @@
-![Kayıp Maden Kapak] (Resimler/header.jpg)
+![Kayıp Maden Kapak] (docs/Resimler/header.jpg)
 ## Phandelver'in Kayıp Madeni
 Lost Mine of Phandelver Quest'inin Çeviri Projesi
 
