@@ -27,4 +27,4 @@
   * 2 Goblin yakın dövüşü, 2 Goblin uzaktan ok atmayı tercih ediyor.
   * 3 Goblin ölünce 4. Goblin kaçmaya çalışıyor ve **Goblin Patikası**'na gidiyor
 
-  *Eğer ki goblinler kazanırsa Maceracıları ve vagonlarını soyup *Cragmaw*'ın mekanına dönüyorlar. Maceracılar Phandalin'e gidip yeni teçhizat alabilir ve sonra geri dönebilirler.*
+  Eğer ki goblinler kazanırsa Maceracıları ve vagonlarını soyup *Cragmaw*'ın mekanına dönüyorlar. Maceracılar Phandalin'e gidip yeni teçhizat alabilir ve sonra geri dönebilirler.
