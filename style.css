@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Comfortaa|Cormorant+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Cormorant+Unicase');
 .container {
   margin-bottom: 5em;
 }
@@ -7,7 +7,11 @@
     color: tomato;
 }
 p{
-  font-family: 'Comfortaa',cursive;
+  font-family: 'Roboto',sans-serif;;
+}
+.mobnav{
+  text-align: center;
+  color:tomato;
 }
 .dizin {
   color: tomato;
@@ -28,3 +32,14 @@ p{
   background-image: url("Resimler/paper.png");
     background-repeat: repeat-x;
 }
+@media screen and (min-width: 0px) and (max-width: 720px) {
+  /* Desktop Portrait and Landscape */
+  #navigation { display: none; }
+  .mobile-hide{ display: none; }
+}
+.mobile-show { display: none;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){ .mobile-show { display: inline;}
+ }
