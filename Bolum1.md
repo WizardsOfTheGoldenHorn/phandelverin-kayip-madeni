@@ -4,7 +4,7 @@
 # Goblin Okları
 >**Neverwinter** şehrinde Gundren Rockseeker adında bir dwarf sizden bir vagon dolusu erzağı bir kaç günlük mesafedeki derme-çatma hudut kasabası olan Phandalin'e getirmenizi istedi. Gundren belli ki çok heyecanlıydı ve bu gezinin sebebini anlatmaktan çekinip gizemli davranıyordu. Sadece, kendisinin ve kardeşlerinin *büyük bir şey* bulduklarını söylüyor ve eğer erzakları **Phandalin**'deki *Barthen'in Malzemecisi*'ne sağa sağlim getirdiğiniz takdirde sizlere kişi başı *10 Altın Para* ödeyeceğini söylüyor. Daha sonra kendisi bir işin çaresine bakması gerektiğini söylüyor ve *Sildar Hallwinter* adında bir savaşçı ile önden iki atla yola çıkıyor.
 
->Son birkaç günü **Newverwinter**'ın güneyinden anayolu takip ederek geçiriyorsunuz, daha yeni doğuya, *Triboar Patikası*'na saptınız. Henüz bir şey ile karşılaşmadınız fakat buralar pek tekin yerler değil. Bu patikada haydut ve eşkiyaların kol gezdiğini biliyorsunuz.
+>Son birkaç günü **Neverwinter**'ın güneyinden anayolu takip ederek geçiriyorsunuz, daha yeni doğuya, *Triboar Patikası*'na saptınız. Henüz bir şey ile karşılaşmadınız fakat buralar pek tekin yerler değil. Bu patikada haydut ve eşkiyaların kol gezdiğini biliyorsunuz.
 
 
  Oyun yöneticisinin sorabileceği sorular
